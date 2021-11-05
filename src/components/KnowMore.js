@@ -40,7 +40,7 @@ class KnowMore extends React.Component {
                     </p>
                     <p>Hosting-Link : <a href="http://goelvaibhav009.github.io/iPod-Classic">iPod-Hosted</a> 
                     </p>
-                    <p>App Developed by : <a href="https://github.com/goelvaibhav009">Vaibhav Goel</a></p>
+                    <p>App Developed by : <a href="https://goelvaibhav009.github.io/Resume/">Vaibhav Goel</a></p>
                     <p>credits : Apple, Flaticon</p>
                 </div>
                 <button id="info-btn" onClick={this.openDiv}>Know More</button>
